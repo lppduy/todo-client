@@ -1,0 +1,7 @@
+/* App.css */
+.myCard {
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
